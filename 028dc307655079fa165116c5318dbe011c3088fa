@@ -16,6 +16,23 @@
       "message": "Hello BigBiff, due to these changes made in this merge, it\u0027s possible for you to set the Android 9 branch as main? Thanks.",
       "revId": "028dc307655079fa165116c5318dbe011c3088fa",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e65130bd_d28dbd30",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-06-01T22:03:18Z",
+      "side": 1,
+      "message": "What kernel source should be used?\nhttps://jenkins.twrp.me/view/test/job/a20s-test/2/console",
+      "revId": "028dc307655079fa165116c5318dbe011c3088fa",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
