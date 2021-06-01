@@ -33,6 +33,23 @@
       "message": "What kernel source should be used?\nhttps://jenkins.twrp.me/view/test/job/a20s-test/2/console",
       "revId": "028dc307655079fa165116c5318dbe011c3088fa",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef69b868_7448aadd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 675
+      },
+      "writtenOn": "2021-06-01T23:37:03Z",
+      "side": 1,
+      "message": "Kernel source: https://github.com/TeamWin/android_kernel_samsung_a20s\nBranch: sky",
+      "revId": "028dc307655079fa165116c5318dbe011c3088fa",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
