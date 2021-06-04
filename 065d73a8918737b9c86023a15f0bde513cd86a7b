@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "43a2639c_d65941df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 675
+      },
+      "writtenOn": "2021-06-04T23:42:10Z",
+      "side": 1,
+      "message": "Hello BigBiff, can you try to fetch kernel tree manually? Thanks.",
+      "revId": "065d73a8918737b9c86023a15f0bde513cd86a7b",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
